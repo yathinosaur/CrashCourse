@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ToyotaLogo" size="1.000000 0.940307" />
+    <ImageTarget name="Gears" size="1.000000 3.356164" />
+    <ImageTarget name="Dial" size="1.000000 1.023239" />
+    <ImageTarget name="Yield" size="1.000000 1.777664" />
+    <ImageTarget name="Handle" size="1.000000 0.548694" />
+    <ImageTarget name="20191018_192749" size="5.000000 4.713341" />
+  </Tracking>
+</QCARConfig>
